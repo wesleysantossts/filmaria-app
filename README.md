@@ -18,4 +18,5 @@ Sistema de visualização de sinopses de filmes em React-Native desenvolvido dur
     <li>Entre no CMD e vá até a pasta do repositório clonado e digite: <code>npx react-native run-android</code> ou <code>yarn android</code> (caso tenha o Yarn instalado na sua máquina). </li>
   <ul>
 </details>
+<br/>
 Feito isso, o emulador reproduzirá exatamente essas telas no seu computador.
