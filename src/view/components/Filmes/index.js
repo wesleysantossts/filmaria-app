@@ -6,7 +6,7 @@ import Detalhes from "../Detalhes/index.js";
 
 export default function Filmes({data}){
   const [visibleModal, setVisibleModal] = useState(false);
-
+  
   return(
     <View>
       <View style={styles.containerFilmes}>
