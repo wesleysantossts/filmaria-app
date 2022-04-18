@@ -20,3 +20,22 @@ Sistema de visualização de sinopses de filmes em React-Native desenvolvido dur
 </details>
 <br/>
 Feito isso, o emulador reproduzirá exatamente essas telas no seu computador.
+    
+## Tecnologias utilizadas
+
+- [x] React Native;
+- [x] API REST.
+
+## Desenvolvimento
+
+<table>
+  <tr>
+    <td border="1px solid #ddd" align="center">
+      <a href="https://github.com/wesleysantossts">
+        <img src="https://avatars.githubusercontent.com/u/56703526?v=4" width="100px" alt="Wesley Santos"/>
+        <br/>
+        <sub>Wesley Santos</sub>
+      </a>
+    </td>
+  </tr>
+</table>
