@@ -8,7 +8,7 @@ Sistema de visualização de sinopses de filmes em React-Native desenvolvido dur
   <img src="./src/assets/img/appDois.png" alt="Imagem do aplicativo" width="45%"/>
 </div>
 
-## Testar
+## Como utilizar a aplicação
 
 <details style="margin: 10px 0">
   <summary>Como faço para testar?</summary>
@@ -18,7 +18,6 @@ Sistema de visualização de sinopses de filmes em React-Native desenvolvido dur
     <li>Entre no CMD e vá até a pasta do repositório clonado e digite: <code>npx react-native run-android</code> ou <code>yarn android</code> (caso tenha o Yarn instalado na sua máquina). </li>
   <ul>
 </details>
-<br/>
 Feito isso, o emulador reproduzirá exatamente essas telas no seu computador.
     
 ## Tecnologias utilizadas
