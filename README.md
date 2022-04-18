@@ -1,8 +1,9 @@
 # Filmaria App
 
 <div style="display: inline-block">
-  <img src="https://img.shields.io/github/license/wesleysantossts/filmaria?color=brightgreen" />
-  <img src="https://img.shields.io/github/last-commit/wesleysantossts/filmaria.svg" />
+  <img src="https://img.shields.io/github/license/wesleysantossts/filmaria-app?color=brightgreen" />
+  <img src="https://img.shields.io/github/last-commit/wesleysantossts/filmaria-app.svg" />
+  <img src="https://img.shields.io/github/repo-size/wesleysantossts/filmaria-app?color=brightgreen" />
 </div><br/>
 
 Sistema de visualização de sinopses de filmes em React-Native desenvolvido durante o curso de React.
